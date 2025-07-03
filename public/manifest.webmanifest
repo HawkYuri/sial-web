@@ -1,0 +1,16 @@
+{
+  "name": "SIAL APP Web",
+  "short_name": "SialApp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "description": "Aplicação SIAL para registro de ocorrências",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
